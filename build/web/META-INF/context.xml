@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/shopping_cart">
+    <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DBCon" password="755821" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=ShoppingCart" username="sa">
+    </Resource>
+</Context>
